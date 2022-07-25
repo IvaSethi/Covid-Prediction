@@ -1,1 +1,1 @@
-# Covid-Prediction
+# Vaccinated_or_not
